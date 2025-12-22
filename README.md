@@ -36,3 +36,8 @@ I wanted a hands-on project that shows the whole process, not just the visualiza
 - Create the database and run the SQL scripts
 - Run the data prep script
 - Open the .pbix file and connect it to your database
+
+## Key Takeaways (post analysis)
+- Home teams win approximately 55% of NFL games, confirming a measurable home-field advantage.
+- League-wide scoring peaked in 2020, followed by a decline and gradual rebound in recent seasons.
+- Average margin of victory has increased since 2020, suggesting fewer close games despite stable scoring.
